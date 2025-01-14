@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Motivação</title>
+ 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+    body{
+    background-color: black;
+  }
+
+  img{
+    border: 5px solid white;
+    width: 100%;
+    
+}
+    h1{
+        text-transform: uppercase;
+        font-size: 3rem;
+    }
+    
+  
+  .poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+    <div class="poster">
+  <img src="./JV apontando.avif">
+
+  <h1>Boa Noite!</h1>
+  <p>No clarão do luar... Espero.</p>
+  <p>Ca nos braços do mar... Me entrego.</p>
+</div>
+<footer>
+  <p>© 2025 - Enzo Sevilhano de Oliveira - Todos os direitos reservados.</p>
+</footer>
+</body>
+</html>
